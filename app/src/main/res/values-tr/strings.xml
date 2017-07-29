@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name" translatable="false">BusyBox</string>
+    <string name="app_version">sürüm %1$s</string>
+    <string name="action_settings">Ayarlar</string>
+    <string name="action_help">Yardım</string>
+    <string name="action_zip">Zip Arşiv</string>
+    <string name="action_about">Hakkında</string>
+    <string name="title_activity_about">Hakkında</string>
+    <string name="title_activity_settings">Ayarlar</string>
+    <string name="install_button">Yükle</string>
+    <string name="remove_button">Kaldır</string>
+
+    <string name="busybox_preferences">BusyBox</string>
+    <string name="title_installdir">Yükleme Yolu</string>
+    <string name="dialog_title_installdir">Yükleme Yolu</string>
+    <string name="title_applets">Uygulamaları yükle</string>
+    <string name="summary_applets">Uygulamalara sembolik bağlar oluştur</string>
+    <string name="title_replace">Uygulamaları değiştir</string>
+    <string name="summary_replace">Mevcut uygulamaları değiştirin</string>
+    <string name="gui_preferences">Arayüz</string>
+    <string name="title_language">Dil</string>
+    <string name="dialog_title_language">Dil seçiniz</string>
+    <string name="title_theme">Tema</string>
+    <string name="dialog_title_theme">Tema seçiniz</string>
+    <string name="title_fontsize">Yazı Boyutu</string>
+    <string name="dialog_title_fontsize">Yazı Boyutu</string>
+    <string name="title_maxlines">Kaydırma boyutu</string>
+    <string name="dialog_title_maxlines">Kaydırma boyutu</string>
+    <string name="title_timestamp">Zaman Damgası</string>
+    <string name="summary_timestamp">Zaman damgasını göster</string>
+    <string name="title_confirm_install_dialog">Yükle</string>
+    <string name="message_confirm_install_dialog">BusyBox sisteme yüklensin mi?</string>
+    <string name="title_confirm_remove_dialog">Kaldır</string>
+    <string name="message_confirm_remove_dialog">BusyBox sistemden kaldırsın mı?</string>
+    <string name="title_export_dialog">Recovery İçin Arşiv:</string>
+    <string name="toast_export_success">Zip arşivi başarıyla kaydedildi</string>
+    <string name="toast_export_error">Zip arşivi kaydedilemedi</string>
+    <string name="toast_terminal_error">Terminal başlatılırken hata oluştu</string>
+    <string name="debug_preferences">Hata ayıklama</string>
+    <string name="title_debug">Hata ayıklama modu</string>
+    <string name="summary_debug">Hata ayıklama bilgilerini göster</string>
+    <string name="title_trace">İzleme modu</string>
+    <string name="summary_trace">İzleme modunu etkinleştir</string>
+    <string name="title_logger">Günlük</string>
+    <string name="summary_logger">Günlükleri bir dosyaya kaydet</string>
+    <string name="title_logfile">Log dosyası</string>
+    <string name="dialog_title_logfile">Log dosyası</string>
+    <string name="write_permissions_disallow">Uygulamanın deponuza yazması yasaklandı.</string>
+    <string name="help_text">Yükleniyor...</string>
+    <string name="about_text">Android cihazınıza BusyBox yüklemeniz için yapılmışır.\n\nDaha fazla bilgi için bakınız <a href="https://gitlab.com/EypCnn">GitLab</a>, <a href="https://github.com/EypCnn">Github</a> veya <a href="http://forum.one-teams.com/">OneTeams Forum</a>.\n\n© Copyright One Team 2017-EypCnn</string>
+
+    <string-array name="theme_entries">
+        <item>Koyu</item>
+        <item>Beyaz</item>
+    </string-array>
+</resources>
